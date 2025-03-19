@@ -45,7 +45,8 @@ body {
     transform: scaleX(-1);
     background-image: var(--desktop-background);
     background-size: cover;
-    background-position:initial; 
+    background-position: initial; 
+    background-repeat: no-repeat;
 }
 
 #cover > * {
